@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HelloScala
 ==========
 
@@ -14,3 +15,9 @@ gradle bootRun
 
 
 
+=======
+hello-world
+===========
+
+My first CmpE273 lab assignment
+>>>>>>> 830febfb24a7ff6867e4f0eb126260daeed06d7a
